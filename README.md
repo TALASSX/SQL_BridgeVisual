@@ -1,17 +1,6 @@
 Power BI SQL Writeback Visual
 This repository contains the necessary files for a pre-built Power BI custom visual that enables real-time data writeback to a SQL database. This visual allows end-users to perform full CRUD (Create, Read, Update, Delete) operations and bulk data imports directly from a Power BI report.
 
-Table of Contents
-Visual Overview
-
-Prerequisites
-
-Installation and Configuration
-
-Usage Guide
-
-Included Files
-
 1. Visual Overview
 The visual operates on a two-part architecture:
 
